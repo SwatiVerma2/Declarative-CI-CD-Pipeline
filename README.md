@@ -1,5 +1,6 @@
 # Simple Notes App for TWS Community
 This is a simple notes app built with React and Django.
+# Note : Project from TrainWithShubham --> for practice purpose.
 
 ## Requirements
 1. Python 3.9
